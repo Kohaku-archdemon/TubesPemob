@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "403987285494",
+    "project_id": "tubesmobrog",
+    "storage_bucket": "tubesmobrog.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:403987285494:android:db5954682120c489afb3d7",
+        "android_client_info": {
+          "package_name": "com.example.tubesmobrog"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBZixGM_TRp_W7IN8D3WqIhU5DP0vREP4k"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
