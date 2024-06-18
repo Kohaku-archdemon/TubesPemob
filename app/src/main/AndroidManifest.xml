@@ -16,9 +16,6 @@
             android:name=".hasilresi"
             android:exported="false" />
         <activity
-            android:name=".lacakresi"
-            android:exported="false" />
-        <activity
             android:name=".cekresi"
             android:exported="false" />
         <activity
